@@ -1,4 +1,3 @@
-#Prengi
 **Prengi** is a SaaS platform designed to model, optimize and manage business processes.
 ___
 * Owl-carousel slider - 2 pcs
